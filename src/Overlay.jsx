@@ -28,7 +28,7 @@ const Overlay = () => {
           </div>
           <a
             target="_blank"
-            href="https://github.com/dullcrato/dullcrato-laboratory/blob/master/src/Sphere.jsx"
+            href="https://github.com/dullcrato/dullcrato-laboratory/blob/master/src/Stickers.jsx"
             rel="noopener"
           >
             &lt;&gt;
